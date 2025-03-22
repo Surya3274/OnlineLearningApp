@@ -1,0 +1,65 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "React for Beginners",
+        "description": "Learn the basics of React.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+      },
+      {
+        "id": 2,
+        "title": "Advanced React",
+        "description": "Dive deeper into React and learn advanced concepts.",
+        "image": "https://th.bing.com/th/id/OIP.WFGY69igCz05RN7EUhSUywHaEK?w=331&h=186&c=7&r=0&o=5&dpr=1.4&pid=1.7"
+      },
+      {
+        "id": 3,
+        "title": "Redux Essentials",
+        "description": "Learn how to manage state with Redux.",
+        "image": "https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"
+      },
+      {
+        "id": 4,
+        "title": "JavaScript Fundamentals",
+        "description": "Understand the fundamentals of JavaScript.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
+      },
+      {
+        "id": 5,
+        "title": "Node.js Basics",
+        "description": "Get started with Node.js and build server-side applications.",
+        "image": "https://th.bing.com/th/id/OIP.-pwJ1f8xFauNDTA_-usyqgHaHa?w=166&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7"
+      },
+      {
+        "id": 6,
+        "title": "Express.js Guide",
+        "description": "Learn how to build web applications using Express.js.",
+        "image": "https://th.bing.com/th/id/OIP.lt9WI3J34Khu2UxzAe_QnQHaER?w=280&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7"
+      },
+      {
+        "id": 7,
+        "title": "MongoDB for Developers",
+        "description": "Learn how to use MongoDB for data storage.",
+        "image": "https://th.bing.com/th/id/OIP.5zqEAbcBlX2Fhg1e-QfU4wHaEo?w=276&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+      },
+      {
+        "id": 8,
+        "title": "Full-Stack Development",
+        "description": "Become a full-stack developer by learning both front-end and back-end technologies.",
+        "image": "https://th.bing.com/th/id/OIP.UhnZs_RgbtVTR56Rsrm40gHaEE?w=268&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7"
+      },
+      {
+        "id": 9,
+        "title": "TypeScript Basics",
+        "description": "Get started with TypeScript and understand its features.",
+        "image": "https://th.bing.com/th/id/OIP.9dFf9CDx1Xk7RgNRs2jkvgHaHa?w=160&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7"
+      },
+      {
+        "id": 10,
+        "title": "GraphQL Introduction",
+        "description": "Learn the basics of GraphQL and how to use it in your applications.",
+        "image": "https://graphql.org/img/logo.svg"
+      }
+    ]
+  }
+  
